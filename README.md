@@ -1,2 +1,0 @@
-# cdkey
-syshacker1
